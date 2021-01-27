@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CamFollow.cs" />
     <Compile Include="Assets\Infinitemove.cs" />
     <Compile Include="Assets\MovePlayer.cs" />
     <Reference Include="UnityEngine">
