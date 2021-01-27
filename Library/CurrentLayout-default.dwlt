@@ -17,7 +17,7 @@ MonoBehaviour:
     x: 0
     y: 43.2
     width: 1536
-    height: 780.8
+    height: 790.4
   m_ShowMode: 4
   m_Title: Scene
   m_RootView: {fileID: 2}
@@ -86,7 +86,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 761
+    y: 771
     width: 1536
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -111,7 +111,7 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1536
-    height: 731
+    height: 741
   m_MinSize: {x: 781, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
@@ -136,7 +136,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1144
-    height: 731
+    height: 741
   m_MinSize: {x: 505, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
@@ -162,7 +162,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1144
-    height: 439
+    height: 445
   m_MinSize: {x: 505, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
@@ -263,9 +263,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 439
+    y: 445
     width: 1144
-    height: 292
+    height: 296
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 18}
@@ -327,7 +327,7 @@ MonoBehaviour:
     x: 570.4
     y: 73.6
     width: 572
-    height: 418
+    height: 424
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -337,7 +337,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1920, y: 1080}
+  m_TargetSize: {x: 1024, y: 768}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -346,23 +346,23 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 06000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -768
-    m_HBaseRangeMax: 768
-    m_VBaseRangeMin: -432
-    m_VBaseRangeMax: 432
+    m_HBaseRangeMin: -409.6
+    m_HBaseRangeMax: 409.6
+    m_VBaseRangeMin: -307.2
+    m_VBaseRangeMax: 307.2
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -374,22 +374,22 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 572
-      height: 397
-    m_Scale: {x: 0.37239584, y: 0.3723958}
-    m_Translation: {x: 286, y: 198.5}
+      height: 403
+    m_Scale: {x: 0.69587016, y: 0.69587016}
+    m_Translation: {x: 286, y: 200.00795}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -768
-      y: -533.035
-      width: 1536
-      height: 1066.07
+      x: -410.99622
+      y: -287.42136
+      width: 821.99243
+      height: 579.13104
     m_MinimalGUI: 1
-  m_defaultScale: 0.37239584
-  m_LastWindowPixelSize: {x: 715, y: 522.5}
+  m_defaultScale: 0.65592444
+  m_LastWindowPixelSize: {x: 715, y: 530}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -419,7 +419,7 @@ MonoBehaviour:
     x: 0
     y: 73.6
     width: 202
-    height: 418
+    height: 424
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
@@ -429,18 +429,18 @@ MonoBehaviour:
       m_ExpandedIDs: 5efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Plan 2
+        m_OriginalName: Plan 2
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -5760
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -474,7 +474,7 @@ MonoBehaviour:
     x: 203.2
     y: 73.6
     width: 365
-    height: 418
+    height: 424
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 080a5a405e4676e4788069fdea76d9f4
@@ -538,7 +538,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 23.147503
+    m_Target: 35.923676
     speed: 2
     m_Value: 23.147503
   m_Ortho:
@@ -678,9 +678,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 512
+    y: 518.4
     width: 1143
-    height: 271
+    height: 275
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -701,7 +701,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\basti\Documents\Gitkraken\Hope TheCleanse
+  m_LastProjectPath: C:\Users\espie\OneDrive\Documents\ECOLE EARTSUP\WORKSHOP 2\GITKRAKEN\Hope-TheCleanse
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -900,7 +900,7 @@ MonoBehaviour:
     x: 1144
     y: 73.6
     width: 391
-    height: 710
+    height: 720
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -937,7 +937,7 @@ MonoBehaviour:
     x: 1144
     y: 73.6
     width: 391
-    height: 710
+    height: 720
   m_ViewDataDictionary: {fileID: 0}
   m_PreviewResizer:
     m_CachedPref: -50
